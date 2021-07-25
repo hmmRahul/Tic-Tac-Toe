@@ -5,7 +5,7 @@
 Reset the game any point of Time. It displays whose turn is there, and also the winner when anyone won the game. If there is No winner it will Display Match Draw.
 
 ## **Project Status**
-Project is Completed. Give it a Try By Downloding it [Now.](https://github.com/hmmRahul/Tic-Tac-Toe/blob/main/app-debug.apk?raw=true)
+Project is Completed. Give it a Try By Downloding it From [Here.](https://github.com/hmmRahul/Tic-Tac-Toe/blob/main/app-debug.apk?raw=true)
 
 ## **Project Screen Shot(s)**
 
