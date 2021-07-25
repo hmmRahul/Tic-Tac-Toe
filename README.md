@@ -12,7 +12,7 @@ Project is Completed.
 <img  align = "left" width="250" height="600" src="https://i.postimg.cc/yY4yN3rH/Screenshot-20210725-142708.png">
 <img  align = "left" width="250" height="600" src="https://i.postimg.cc/sgKYK6fj/Screenshot-20210725-142718.png">
 
-<img  width="270" height="600" src="https://s6.gifyu.com/images/win-matchbf0ca9560db448a5.gif">
+<img  width="290" height="600" src="https://s6.gifyu.com/images/win-matchbf0ca9560db448a5.gif">
 
 
 
