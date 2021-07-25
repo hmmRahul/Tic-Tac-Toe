@@ -4,10 +4,14 @@
 - Hey There 🙋‍♂️ This Project is Built using JAVA on Android Studio. It is a Simple Tic-Tac-Toe Game with colorful Animations. It Also have A Reset Button which help User to 
 Reset the game any point of Time. It displays whose turn is there, and also the winner when anyone won the game. If there is No winner it will Display Match Draw.
 
-#.# **Project Status**
+## **Project Status**
 Project is Completed.
 
 ## **Project Screen Shot(s)**
+
+![Screenshot_20210725-142718](https://user-images.githubusercontent.com/67095559/126894186-c442f186-b48b-4f14-8cc3-1cd270f0aa56.png)
+![Screenshot_20210725-142708](https://user-images.githubusercontent.com/67095559/126894170-ce2e61f6-4067-4046-8673-3c98efbbdadc.png)
+
 <img  align = "left" width="300" height="600" src="https://i.postimg.cc/j2RpPmfZ/Screenshot-20210629-203555.png">
 <img  align = "left" width="300" height="600" src="https://i.postimg.cc/4dggJBJb/Screenshot-20210630-182319.png">
 <img  align = "left" width="300" height="600" src="https://i.postimg.cc/x8pqZWK1/Screenshot-20210630-181144.png">
