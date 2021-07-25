@@ -9,10 +9,10 @@ Project is Completed.
 
 ## **Project Screen Shot(s)**
 
-<img  align = "left" width="280" height="600" src="https://i.postimg.cc/yY4yN3rH/Screenshot-20210725-142708.png">
-<img  align = "left" width="280" height="600" src="https://i.postimg.cc/sgKYK6fj/Screenshot-20210725-142718.png">
+<img  align = "left" width="270" height="600" src="https://i.postimg.cc/yY4yN3rH/Screenshot-20210725-142708.png">
+<img  align = "left" width="270" height="600" src="https://i.postimg.cc/sgKYK6fj/Screenshot-20210725-142718.png">
 
-<img  width="280" height="600" src="https://s6.gifyu.com/images/win-matchbf0ca9560db448a5.gif">
+<img  width="270" height="600" src="https://s6.gifyu.com/images/win-matchbf0ca9560db448a5.gif">
 
 
 
