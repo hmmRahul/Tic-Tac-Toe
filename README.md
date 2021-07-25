@@ -22,7 +22,7 @@ Project is Completed.
 
 ## **Installation** 
 
-Apk file can be downlode from [Here.](https://github.com/hmmRahul/Tic-Tac-Toe/blob/main/app-debug.apk?raw=true)
+Apk file can be downloded from [Here.](https://github.com/hmmRahul/Tic-Tac-Toe/blob/main/app-debug.apk?raw=true)
 
 
 Thank You for Reading and Visiting, Have A Nice Day!💚💙
